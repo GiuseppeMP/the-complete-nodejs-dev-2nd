@@ -8,3 +8,7 @@
 ## lecture 1. Welcome & Asking Awesome Questions
 
 Asking questions, learn by doing node.
+
+## lecture 2. Section intro
+
+Install nodejs and how to configure it.
