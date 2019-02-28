@@ -4,3 +4,7 @@
 2. Bought at: Forever ago.
 3. Finished at: -
 4. Source code: -
+
+## lecture 1. Welcome & Asking Awesome Questions
+
+Asking questions, learn by doing node.
