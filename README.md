@@ -12,3 +12,7 @@ Asking questions, learn by doing node.
 ## lecture 2. Section intro
 
 Install nodejs and how to configure it.
+
+## lecture 3. Install Nodejs
+
+Using Nodejs 10x or higher.
